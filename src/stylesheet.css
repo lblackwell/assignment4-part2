@@ -1,0 +1,52 @@
+* {
+	font-family: Helvetica,sans-serif;
+}
+
+body {	
+	background-color: #FEFCFF;
+}
+
+div {
+	display: inline;
+}
+
+form {
+	float: left;
+}
+
+input[type="submit"] {
+	background-color: #FFFFFF;
+	color: #000000;
+	border-color: #000000;
+	border-width: 1px;
+}
+
+td {
+	border-style: none;
+	padding: 2px;
+}
+
+thead tr {
+	background-color: #a6daeb;
+}
+
+tbody tr:nth-of-type(2n) {
+	background: #dceda9;
+}
+
+tbody tr:nth-of-type(2n+1) {
+	background: #edf6d3;
+}
+
+th {
+	text-align: left;
+}
+
+.buttons {
+	border-style: none;
+	border-width: 0px;
+}
+
+#viewCat {
+	float: left;
+}

@@ -1,0 +1,31 @@
+Start: Wed, 6 May 2015 19:12:59 -0800
+End: Wed, 6 May 2015 20:31:20 -0800
+Tasks: - Began setting up folders, repo, etc for assignment
+       - Set up database table in MySQL Workbench
+
+Start: Fri, 8 May 2015 15:35:45 -0800
+End: Fri, 8 May 2015 16:58:37 -0800
+Tasks: - Recreated database table using ONID DB GUI
+       - Began working on interface
+
+Start: Fri, 8 May 2015 18:09:08 -0800
+End: Fri, 8 May 2015 22:06:59 -0800
+Tasks: - Continued working on interface
+       - Began getting SQL and PHP to play nicely
+
+Start: Sun, 10 May 2015 09:57:10 -0800
+End: Sun, 10 May 2015 11:24:02 -0800
+Tasks: - Added input checking for adding videos
+       - Fixed prepared statement
+       - Got table data to appear on page
+       - Added delete button to table
+
+Start: Sun, 10 May 2015 12:24:22 -0800
+End: Sun, 10 May 2015 15:26:24 -0800
+Tasks: - Added check in/out button
+       - Added delete all button
+       - Added category selection menu
+       - Moved "Add a Video" from separate page to main page
+       - Ran through given testing protocol
+       - Styled finished product a little
+       - Uploaded finished assignment to Github and ENGR server
